@@ -1,3 +1,4 @@
 <?php
 devphp();
+devphp2();
 ?>
